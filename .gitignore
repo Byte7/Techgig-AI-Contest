@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#data files
+cg-ai-hackathon-dataset
+cg-ai-hackathon-dataset.zip
